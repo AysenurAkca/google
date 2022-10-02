@@ -1,0 +1,56 @@
+.img{
+    text-align: center;
+    position: relative;
+    /* top: 150px; */
+}
+
+.main{
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+.search{
+    background-color: rgb(217, 216, 216);
+    position: relative;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 0;
+}
+.tags{
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+.tag-first{
+    background-color: rgb(64, 135, 111);
+    margin: 1px;
+    float: left;
+    width: 30%;
+    height: 100px;
+}
+
+.tag-second{
+    background-color: rgb(64, 135, 111);
+    margin: 1px;
+    float: left;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+
+.tag-third{
+    background-color: rgb(64, 135, 111);
+    margin: 1px;
+    float: left;
+    width: 44%;
+    height: 100px;
+    
+}
+.last{
+    text-align: center;
+}
